@@ -6,7 +6,7 @@
 
 ## 安装
 
-请根据 https://skillhub.cn/install/skillhub.md ，安装 @user_0f763e12/dev-workflow。
+请根据 https://skillhub.cn/install/skillhub.md ，安装 @indiv-kaifazhexiaoshi/dev-workflow。
 
 ## 流程规范
 
