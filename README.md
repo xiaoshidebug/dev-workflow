@@ -45,6 +45,8 @@ flowchart TD
 
 请根据 https://skillhub.cn/install/skillhub.md ，安装 @indiv-kaifazhexiaoshi/dev-workflow。
 
+或使用 OpenClaw 安装：`openclaw skills install @xiaoshidebug/dev-workflow`
+
 ## 流程规范
 
 接到任何新的开发任务（新需求或 bug 修复）时，必须严格按以下流程执行，不得跳步。
